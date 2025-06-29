@@ -28,7 +28,7 @@ To use this photo editor, you need to have Python 3 and the Pillow library insta
 
 1.  **Clone the repository:**
     ```bash
-    git clone 
+    git clone https://github.com/Jonathan-Tjandra/Photo_Editor.git
     cd Photo_Editor
     ```
 
