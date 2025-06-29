@@ -28,8 +28,8 @@ To use this photo editor, you need to have Python 3 and the Pillow library insta
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <your-repository-name>
+    git clone 
+    cd Photo_Editor
     ```
 
 2.  **Install the required package:**
